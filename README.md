@@ -2,7 +2,7 @@
 
 My Resume written using LaTeX. In my Resume, you may find my contact information, websites, education, experience, achievements, projects, and skills.
 
-Please find attached my [Resume](https://drive.google.com/file/d/1TGwMpZl6FDeQk1w_-EetbspCuzu16kCF/view?usp=sharing). 😜
+Please find attached my [Resume](https://github.com/dabhishek316/Abhishek-Das-Resume-using-Latex/blob/main/Abhishek_Das_Azure_Data_Engineer.pdf). 😜
 
 ## Run on Terminal
 
